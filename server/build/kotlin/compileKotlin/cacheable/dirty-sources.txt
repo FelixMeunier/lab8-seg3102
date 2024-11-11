@@ -1,0 +1,7 @@
+/home/felixmeunier/Documents/lab8/server/src/main/kotlin/seg3x02/employeeGql/entity/Employee.kt
+/home/felixmeunier/Documents/lab8/server/src/main/kotlin/seg3x02/employeeGql/EmployeeGqlApplication.kt
+/home/felixmeunier/Documents/lab8/server/src/main/kotlin/seg3x02/employeeGql/resolvers/EmployeesResolver.kt
+/home/felixmeunier/Documents/lab8/server/src/main/kotlin/seg3x02/employeeGql/configuration/WebSecurityConfig.kt
+/home/felixmeunier/Documents/lab8/server/src/main/kotlin/seg3x02/employeeGql/resolvers/types/CreateEmployeeInput.kt
+/home/felixmeunier/Documents/lab8/server/src/main/kotlin/seg3x02/employeeGql/configuration/WebConfiguration.kt
+/home/felixmeunier/Documents/lab8/server/src/main/kotlin/seg3x02/employeeGql/repository/EmployeesRepository.kt
